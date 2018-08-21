@@ -1,2 +1,3 @@
 # hello-word
-Just a respostory
+Hi! Everyone:
+This is my first time to use GitHub,I love it!
